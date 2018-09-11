@@ -1,9 +1,9 @@
 package controller;
 
-public class monsterController
+public class Runner
 {
 
-	public monsterController()
+	public Runner()
 	{
 		// TODO Auto-generated constructor stub
 	}
