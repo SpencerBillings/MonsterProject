@@ -3,9 +3,10 @@ package controller;
 public class Runner
 {
 
-	public Runner()
+	public static void main (String [] args)
 	{
-		// TODO Auto-generated constructor stub
+		Controller app = new Controller();
+		app.start();
 	}
 
 }
